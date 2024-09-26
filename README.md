@@ -1,14 +1,12 @@
 # Projeto-Cartao-de-credito
  Projeto de Análise Exploratória de Dados de Usuários de Cartão de Crédito
 
- Conclusão
+Com base nos resultados obtidos, apresentamos os seguintes insights e recomendações:
 
-Com base nos resultados obtidos neste projeto, os insights e as ações recomendadas são fornecidos a seguir.
+Novos Clientes Sem Cartão de Crédito: Clientes com menos de 18 meses de relacionamento geralmente não possuem cartão de crédito.
 
-Informações:
+Clientes Recorrentes: A maioria dos clientes que retornam está na faixa de relacionamento entre 1,5 a 3 anos, indicando um forte perfil de fidelização.
 
-Novos clientes não possuem cartão de crédito: Novos clientes (menos de 1 ano e meio de relacionamento) não possuem cartão de crédito.
+Clientes Antigos como Premium: A análise revelou que a maioria dos clientes mais antigos possui cartões Platinum, sugerindo um padrão de valorização entre os clientes de longa data.
 
-Maioria dos clientes está retornando: A mesa tem a maioria dos clientes como clientes recorrentes (entre 1,5 anos e 3 anos de relacionamento).
-
-Os mais antigos são premium: a maioria dos clientes antigos possui cartões Platinum.
+Essas informações oferecem uma visão estratégica para orientar ações de marketing e melhorar a experiência do cliente.
